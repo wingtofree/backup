@@ -4,7 +4,9 @@ description: Windows Defender Firewall controls which app could access Internet.
 ms.prod: windows
 ms.topic: tutorial
 ms.date: 09/28/2020
-ms.author: alkohli
+author: wingtofree
+
+ms.author: v-qingao
 ---
 
 # Tutorial: manage Windows Defender Firewall allow list
